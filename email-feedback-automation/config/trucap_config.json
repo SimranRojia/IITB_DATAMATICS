@@ -1,0 +1,5 @@
+{
+    "api_url": "https://your-trucap-server/api/extract",
+    "auth_token": "your-auth-token"
+  }
+  

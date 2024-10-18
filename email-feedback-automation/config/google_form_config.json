@@ -1,0 +1,10 @@
+{
+    "form_url": "https://forms.google.com/your-form-url",
+    "fields": {
+      "customer_name": "#customer-name",
+      "order_id": "#order-id",
+      "feedback_category": "#feedback-category",
+      "sentiment_score": "#sentiment-score"
+    }
+  }
+  
